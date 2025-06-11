@@ -31,8 +31,8 @@
   },
   "depends": {
     "fabric": "*",
-    "minecraft": "${minecraft_version_out}",
-    "figura": ">=${figura_version}"
+    "minecraft": "*",
+    "figura": "*"
   },
   "custom": {
     "modmenu": {
